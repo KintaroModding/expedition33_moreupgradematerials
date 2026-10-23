@@ -1,0 +1,19 @@
+{
+  "name": "More Upgrade Materials",
+  "folder": "expedition33_moreupgradematerials",
+  "author": "Kintaro",
+  "version": "1.0",
+  "description": "Loot gives double Chroma Catalysts, Colours of Lumina and Recoats; Petanks give three times as many.",
+  "kind": "asset",
+  "game": "expedition33",
+  "gameFolder": "Clair Obscur Expedition 33",
+  "paksPath": "Sandfall\\Content\\Paks",
+  "gameVersion": "1.5.6.0",
+  "engine": "UE5_4",
+  "mappings": "Expedition33Mappings-1.5.6",
+  "pakName": "expedition33_moreupgradematerials_P",
+  "structs": [
+    "Sandfall/Content/Gameplay/Inventory/LootSystem/S_LootTableSection",
+    "Sandfall/Content/Gameplay/Inventory/LootSystem/S_LootTableEntry"
+  ]
+}

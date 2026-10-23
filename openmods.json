@@ -1,0 +1,10 @@
+{
+  "$schema": "https://openmods.nexus/openmods.schema.json",
+  "openmods": 1,
+  "name": "More Upgrade Materials",
+  "summary": "Loot gives double Chroma Catalysts, Colours of Lumina and Recoats; Petanks give three times as many.",
+  "games": ["clair-obscur-expedition-33"],
+  "tags": ["gameplay"],
+  "gameVersions": ["1.5.6"],
+  "cover": "docs/cover.png"
+}
