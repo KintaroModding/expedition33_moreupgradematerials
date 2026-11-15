@@ -23,7 +23,7 @@ The drop chances stay the same.
 
 ## Screenshots
 
-![More Upgrade Materials](docs/cover.png)
+![More Upgrade Materials](docs/cover.webp)
 
 ## How to install
 
